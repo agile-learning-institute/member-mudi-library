@@ -43,7 +43,7 @@ header button:hover {
 main {
     padding: 2rem;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 2rem;
     justify-content: center;
 }
